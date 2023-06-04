@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## [Live Demo of Tinder clone app](https://tinder-clone-69e7a.web.app/)
+## [Live Demo of Tech Tinder app](https://tinder-clone-69e7a.web.app/)
 
 ## Process of developing intro
 
-**Build a Tinder Clone with MERN Stack (MongoDB, Express, React, Node JS)**
+**Build a Tech Tinder  with MERN Stack (MongoDB, Express, React, Node JS)**
 
 - Back-End:
   - Database: MongoDB
